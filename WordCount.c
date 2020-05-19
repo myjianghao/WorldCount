@@ -64,7 +64,7 @@ int main(int argc,char **argv)
                 }
                 memset(buff,0,255);
             }
-            printf("字符数：%d\n",++count);
+            printf("字符数：%d\n",count);
         }
     }
     else{
